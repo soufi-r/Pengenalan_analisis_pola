@@ -1,0 +1,1256 @@
+Gutierrez‑Ortiz  et al. BMC Public Health         (2025) 25:1097  
+https://doi.org/10.1186/s12889‑025‑22304‑3
+RESEARCH Open Access
+© The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if 
+you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or 
+parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To 
+view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.BMC P ublic Health
+Impact of ultra‑processed foods 
+consumption on the burden of obesity and type 
+2 diabetes in Belgium: a comparative risk 
+assessment
+Claudia Gutierrez- Ortiz1*, Leonor Guariguata2, Claire Dénos3,4, José L. Peñalvo1,5 and Stefanie Vandevijvere6 
+Abstract 
+Background A high consumption of ultra-processed foods (UPFs) has been related to several chronic diseases such 
+as obesity and type 2 diabetes. This study aimed to estimate the proportion of the burden of obesity and type 2 dia-
+betes in Belgium that could be attributed to the consumption of UPFs.
+Methods A comparative-risk assessment framework was used. A literature search and a dose-response meta-analysis 
+between UPFs intake and obesity and type 2 diabetes were performed. The risks were extracted from the curve 
+dose-response meta-analysis and extrapolated to the mean of UPFs consumption by strata (5-year age category/sex/
+region) using the 2014/2015 Belgian Food Consumption Survey. The population attributable fraction and the attribut -
+able burden were then calculated for the prevalence of obesity and type 2 diabetes, and disability-adjusted life-years 
+(DALYs) for type 2 diabetes.
+Results From the meta-analysis, for every 10% increase in UPFs intake (g/day), there was a 13% increase in risk 
+of developing type 2 diabetes (RR:1.13, 95%IC 1.12-1.15, p<0.001) and for every 10% increase of energy intake 
+from UPFs (kcal/day), there was a 5% increase in risk of developing obesity (RR:1.05, 95%IC 0.99-1.13, p=0.1321). Using 
+these estimates, 21% of cases (277 056/1 286 454) of obesity in Belgium in 2014/2015 could be attributed to the UPFs 
+intake. Similarly, for type 2 diabetes in Belgium in 2014/2015, 23% of cases (53 348/227 502) and 24% of DALYs (7 
+998/34 034) were attributed to UPFs consumption.
+Conclusions The sizeable impact of UPFs on the burden of obesity and type 2 diabetes in Belgium emphasizes 
+the need to design and implement policies to address UPF consumption in Belgium.
+Keywords  Comparative risk assessment, Population attributable fraction, Ultra-processed foods, Type 2 diabetes, 
+Obesity
+*Correspondence:
+Claudia Gutierrez- Ortiz
+ceciliagut09@gmail.com
+Full list of author information is available at the end of the article
+Page 2 of 16 Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+Introduction
+The food industry plays a central role in the production, 
+preservation, manufacturing, distribution, marketing, 
+and sale of food products [1]. Initially, food processing 
+aimed to prevent spoilage and enhance food safety. How -
+ever, over time, it has evolved to prioritize convenience, 
+palatability, and affordability for consumers [2]. To better 
+understand the impact of food processing on health, the 
+NOVA classification was developed, categorizing foods 
+based on their degree of processing rather than solely on 
+nutrient composition or quality [1]. This system classi -
+fies foods into four groups: (1) unprocessed or minimally 
+processed foods, (2) processed culinary ingredients, (3) 
+processed foods, and (4) ultra-processed foods (UPFs) 
+[3]. The NOVA classification has become widely used in 
+research investigating the links between food processing 
+and health outcomes [4].
+UPFs, which include ready-to-eat meals, sugar-sweet -
+ened beverages, sweet biscuits, and artificially sweet -
+ened products, constitute an increasing proportion of the 
+global food supply [3]. These products are typically high 
+in saturated fats, added sugars, and salt while being low 
+in dietary fiber. Additionally, they are often energy-dense, 
+nutritionally unbalanced, and lack essential micronu -
+trients [1]. Numerous studies have demonstrated that a 
+high intake of UPFs is associated with an increased risk of 
+cardiometabolic diseases, including dyslipidemia, hyper -
+tension, obesity, and type 2 diabetes mellitus (T2DM), as 
+well as cardiovascular and cerebrovascular diseases [5]. 
+UPF consumption has also been linked to cancer, mental 
+health disorders, and higher overall mortality [5, 6]. The 
+mechanisms underlying these associations include the 
+adverse nutritional profile of UPFs, the presence of food 
+additives, emulsifiers, and artificial sweeteners, as well as 
+potential metabolic and inflammatory effects [7].
+Despite the accumulating evidence on the negative 
+health impacts of UPFs, their consumption remains 
+high worldwide. In low- and middle-income countries 
+(LMICs), UPFs intake is rising rapidly [1]. The range 
+across Europe of UPFs intake is between 12.2% and 40.8% 
+of daily energy intake, with Belgium reporting an average 
+consumption of 28.8% [8]. Another study estimates that 
+36% of all food and beverages consumed by the Belgian 
+population are classified as UPFs, accounting for approxi -
+mately 50% of total daily energy intake [9].
+Despite the growing concern regarding UPF consump -
+tion, its contribution to the burden of disease has not 
+yet been comprehensively estimated in large-scale stud -
+ies. Quantifying this burden is essential to better under -
+stand the magnitude of the public health challenge and 
+to inform the development of targeted policies aimed at 
+reducing UPF consumption. Regulatory measures, such 
+as restricting the marketing of UPFs and limiting their availability and accessibility, could be instrumental in 
+mitigating their impact.
+This study aims to quantify the population attribut -
+able fraction and attributable burden of UPF consump -
+tion in obesity and T2DM among adults in Belgium using 
+a comparative risk assessment. By providing country-
+specific burden estimates, this research will contribute 
+to the growing body of evidence on UPFs and support 
+public health planning efforts to address their rising 
+consumption.
+Methods
+This study is based on the Comparative Risk Assessment 
+(CRA) methodology, in which the current level of expo -
+sure is compared to a “counterfactual” or theoretical sce -
+nario of lower consumption [10, 11]. The CRA provides 
+a practical approach to estimating the burden of disease 
+associated with an exposure in the absence of long-term 
+longitudinal studies [8]. The counterfactual scenario, for -
+mally referred to as the theoretical-minimum-risk expo -
+sure level (TMREL), serves as the reference against which 
+the current scenario is compared, providing an estimate 
+of the additional risk experienced by the population due 
+to the current exposure [11].
+To gather all the necessary inputs for the CRA, several 
+steps were taken. First, a literature review was conducted 
+to assess the association between UPFs consumption 
+and various health outcomes. Second, the dose-response 
+relationship between UPFs —or energy intake from 
+UPFs—and the development of obesity and T2DM was 
+quantified using meta-analyses, as these were the out -
+comes with sufficient evidence. Third, the proportion of 
+the burden of obesity and T2DM attributable to UPFs 
+consumption was calculated. Finally, the burden of obe -
+sity and T2DM due to UPFs consumption in the Belgian 
+population in 2014 was estimated.
+Literature search
+A literature search was conducted in Medline, Science -
+Direct, Web of Science, Scopus, Embase, and Google 
+Scholar for studies published between January 2013 and 
+September 2023. The search terms used were “Ultra-pro -
+cessed food” and “Risk” . Studies were initially screened 
+by title and abstract, followed by a full-text evaluation 
+to determine eligibility. First, our review summarized 
+all available evidence on UPFs consumption and chronic 
+diseases. Then, we assessed the evidence and identified 
+diseases with sufficient data to perform a dose-response 
+meta-analysis, considering clinical relevance and the 
+availability of data sources for Belgium (See Supplemen -
+tary Table 1).
+Page 3 of 16
+ Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+ 
+Eligibility criteria
+The eligibility criteria followed the PICOS framework 
+explained in Table  1. These criteria were based on the 
+research question: What is the dose-response relation -
+ship between ultra-processed food (UPF) consumption 
+and the risk of chronic diseases (e.g., type 2 diabetes, 
+obesity, cardiovascular disease, and cancer) in adults, 
+based on prospective cohort studies? 
+Chronic diseases considered in the literature search 
+were those with available burden estimates, such as 
+disability-adjusted life-years (DALYs) or case counts. 
+Children, adolescents, and pregnant women were 
+excluded. The selection of the diseases included in 
+the meta-analysis was based on the strength of the 
+evidence and their clinical relevance. Of the health 
+outcomes retrieved, only T2DM and obesity were 
+identified as eligible for this study. One clinical trial 
+assessed weight gain and glucose intolerance in 
+healthy participants who followed either a diet high 
+in UPFs or an unprocessed diet for 2 weeks [12]. Par -
+ticipants on the UPFs diet exhibited significant weight 
+gain and notable changes in appetite-related hor -
+mones. However, due to the short trial period, glucose 
+tolerance showed no significant differences. Regarding 
+clinical relevance, obesity is a major risk factor for sev -
+eral diseases, such as hypertension, T2DM, cancer, etc. 
+[13]. Therefore, this study focused on the association 
+between UPFs consumption and the risk of obesity 
+(BMI ≥ 30 kg/m2) and T2DM.
+Critical appraisal of cohort studies
+We performed a risk of bias assessment of the stud -
+ies included in the dose-response meta-analysis using 
+the Newcastle-Ottawa Scale adapted for cohort stud -
+ies, which ranges from 0 to 9 points. Studies scoring 
+≥7 were considered of good quality, those scoring 
+between 4 and 6 were classified as fair quality, and 
+those scoring <4 were considered of low quality [14].Comparative risk assessment model inputs
+Exposure‑outcome function
+A dose-response meta-analysis was conducted using 
+a two-stage random-effects analysis in R version 4.3.2 
+(package dosesresmeta). The analysis involved two 
+stages: first, the regression coefficient for each study was 
+retrieved; second, the total coefficient was calculated 
+by aggregating the weighted averages of the individual 
+study coefficients [15]. All studies reporting hazard ratios 
+(HRs) assumed a proportional hazards model, where the 
+HR was constant over the follow-up period. Linearity 
+analysis was assessed using a restricted maximum likeli -
+hood (REML) model, while non-linearity analysis was 
+conducted using a restricted cubic spline with three 
+knots (0.1, 0.5, 0.9) [16].
+The measurement of UPFs consumption lacks stand -
+ardization across studies and is reported in various 
+units, e.g. g/day, kcal/day, or serving/day. Therefore, the 
+units for UPFs consumption were determined based on 
+their frequency in the cohort studies: For T2DM, UPFs 
+consumption was calculated by dividing the daily UPFs 
+intake (g/day) by total food intake (g/day). For obesity, 
+UPFs consumption (%) was calculated by dividing the 
+daily energy intake from UPFs (kcal) by total daily energy 
+intake (kcal/day). Our meta-analysis evaluated UPF con -
+sumption as a percentage of total food intake per day, 
+expressed in g/day and kcal/day, depending on the units 
+reported in cohort studies.
+Ultra processed foods consumption
+The 2014 Belgian Food Consumption Survey (FCS), a 
+nationally representative study of 3 146 participants 
+aged 3 to 64 years [17], was used to estimate current UPF 
+intake in Belgium. For this study, only participants aged 
+20 years and older were included to align with the meta-
+analysis results [18].
+The FCS 2014–2015 protocol and questionnaire are 
+publicly available online [19]. Dietary intake was assessed 
+using GloboDiet, a standardized computerized 24-hour 
+dietary recall program, conducted on two non-consecu -
+tive days [18].
+Table 1 Eligibility criteria based on PICO framework
+Abbreviations: RR relative risk, HR hazard ratioPopulation Adults with ≥18 years old
+Intervention Ultra-processed food intake
+Comparator Lower UPF intake or reference category
+Outcome Chronic diseases
+Others Study design: prospective cohort studies reporting RR or HR as primary 
+effect measures. Case-control, cross-sectional, and ecological studies 
+were excluded
+Page 4 of 16 Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+Participants were stratified into 54 groups based on 
+5-year age categories, sex, and region (Flanders, Brus -
+sels-Capital, and Wallonia). Food items were classified 
+according to the NOVA system, and the mean UPF con -
+sumption for each stratum was weighted using popula -
+tion sampling factors to ensure representativeness at the 
+national level.
+Burden estimates by diseases
+Type 2 diabetes burden The Belgian National Burden 
+of Disease Study (BeBOD) estimates the number of peo -
+ple living with diabetes and corresponding DALYs strati -
+fied by age, sex, and region. The BeBOD methodology is 
+described in detail elsewhere [20].
+Briefly, BeBOD defines diabetes mellitus using administra -
+tive and electronic medical records, incorporating indi -
+cators such as medication use, physician diagnosis, and 
+hospital discharge data [20]. Diabetes cases and related 
+DALYs are classified according to BeBOD guidelines, 
+which define diabetes as “a group of metabolic diseases 
+characterized by hyperglycemia resulting from defects 
+in insulin secretion, insulin action, or both. ” BeBOD also 
+considers the diagnostic codes E10–E14, covering insu -
+lin-dependent diabetes, non-insulin-dependent diabetes, 
+malnutrition-related diabetes, other specific types of dia -
+betes mellitus, and unspecified diabetes mellitus.
+BeBOD accounts for patients with diabetes who experi -
+ence disability or premature death due to complications. 
+These include chronic conditions that require daily medi -
+cation and may cause concern, as well as microvascular 
+complications such as neuropathy and ophthalmopathy. 
+However, macrovascular complications—including coro -
+nary artery disease, stroke, and peripheral arterial dis -
+ease—are classified separately under cardiovascular 
+diseases [20].
+Obesity burden  Two datasets were used to estimate 
+the burden of obesity: (i) 2014 FCS data, which provided 
+obesity prevalence by sex, region, and 5-year age cat -
+egories. In the 2014 FCS, weight and height were objec -
+tively measured [17]. (ii) STATBEL, the Belgian Statistical 
+Office, which provides population data by region, 5-year 
+age groups, and sex. The available 2014 STATBEL data 
+were multiplied by the obesity prevalence from the 2014 
+FCS to estimate the total number of obesity cases in Bel -
+gium [21].
+Comparative‑risk assessment model
+Population attributable fractions (PAFs) represent the 
+proportion of cases for a given outcome or risk factor that can be attributed to a specific level of exposure in a 
+population [10].
+PAFs can be calculated using different formulas, 
+depending on the exposure-outcome relationship under 
+study. In this study, exposure was assessed as average 
+UPF consumption (g/day and kcal/day) by age group, sex, 
+and region. A continuous version of the PAFs equation 
+was applied [10]. The TMREL was defined as the level of 
+UPF consumption associated with no risk, as determined 
+by the density function [10].
+Relative risks (RRs) for each exposure level were 
+extracted from the dose-response meta-analysis curve 
+and applied to age/sex/region-specific UPFs consump -
+tion levels to calculate strata-specific PAFs. The attribut -
+able burden (AB) was obtained by multiplying the PAF by 
+the total number of DALYs or cases. The final aggregate 
+analysis provided results for the entire Belgian popu -
+lation, with the total rate (RT) expressed per 1 000 000 
+inhabitants.
+Policy scenarios
+Two theoretical policy scenarios were evaluated for each 
+disease: For T2DM, a reduction of 100 grams in total 
+UPF consumption and a relative reduction of 10% in daily 
+UPF intake.
+For obesity, a reduction of 100 kcal in total energy from 
+UPF intake and a relative reduction of 10% in daily UPF 
+intake.
+Results
+Literature search
+A total of 4 023 articles were identified after removing 
+duplicates in the period 2013 −2023 (see Supplementary, 
+Figure  1). From the literature search, 148 studies were 
+evaluated in full text, 55 studies were included in the 
+literature synthesis (see Supplementary, Table 2) and 93 
+studies were excluded (see Supplementary, Table 3).
+The units used to express UPF consumption varied 
+across the literature, with grams per day being com -
+monly employed in T2DM studies and percentages of 
+daily caloric intake in obesity investigations. Due to 
+limitations in data accessibility, unit conversion was not 
+possible. Consequently, for T2DM and obesity, we used 
+percentages of UPF consumption in g/day and kcal/day, 
+respectively. As a result, six studies were excluded: two 
+T2DM studies that assessed total UPF consumption in 
+grams [22, 23] and three obesity studies that reported 
+UPF intake in g/day or serving/day instead of kcal/day 
+[24–26]. Additionally, a study examining comorbid 
+depressive symptoms alongside UPF consumption in 
+T2DM patients was excluded [27] as depressive status 
+has been associated with an increased risk of T2DM 
+[28]. Notably, after requesting additional data from the 
+Page 5 of 16
+ Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+ 
+authors, one study provided UPF consumption infor -
+mation in the required units for our analysis across 
+three distinct cohorts, allowing for its direct inclusion 
+without the need for unit conversion [29]. Ultimately, 
+three articles with a total of five cohorts on T2DM were 
+included, while two out of four five studies were incor -
+porated into the obesity analysis (Table 2 ).
+In the T2DM meta-analysis, the five primary stud -
+ies were UK Biobank, Nutrinet Santé, Nurses’ Health 
+Study (NHS), Nurses’ Health Study II (NHSII), and the 
+Health Professionals Follow-up Study (HPFS). The last 
+three studies were from the US.
+Among the total 325 073 participants, 78% (254 191) 
+were women. The follow-up duration was longer in 
+the US cohort studies, ranging from an average of 26 
+to 32 years, whereas the more recent UK and France 
+cohorts had follow-up durations of 5.4 years and 6 
+years, respectively. Food intake was assessed using 
+FFQs (n =3) and repeated 24-hour recalls (n =2). T2DM 
+diagnoses were self-reported and confirmed through a 
+medical database (n =1), a validated algorithm (n =1), 
+and a validated questionnaire (n =3).
+In contrast, the obesity meta-analysis included two 
+cohort studies: the Brazilian Longitudinal Study of 
+Adult Health (ELSA) from Brazil and UK Biobank 
+from the United Kingdom, with follow-up durations 
+of 3.8 years and 5 years, respectively. There were 34 
+486 participants, 55% (18 309) of whom were female. 
+Food intake assessment was conducted using FFQs 
+and repeated 24-hour recalls, while obesity diagnoses 
+were based on baseline and follow-up body mass index 
+(BMI) and annual weight measurements.
+Dose‑response meta‑analysis
+Type 2 diabetes
+Our findings show a statistically significant linear 
+dose-response association between UPF intake and 
+an increased risk of T2DM. Specifically, for every 10% 
+increase in UPF consumption in grams per day (g/day), 
+the risk of T2DM increased by 13% (RR: 1.13, 95% CI: 
+1.12–1.15, p < 0.001). The meta-analysis included five 
+prospective cohort studies, with a total of 325 073 par -
+ticipants. Heterogeneity was assessed using the  I2 sta-
+tistic, which indicated no evidence of heterogeneity 
+among the included studies  (I2 = 0%, p  = 0.785). The 
+model fit was evaluated using the coefficient of deter -
+mination (R2 = 0.924, Adjusted R2 = 0.920) (Figs.  1 
+and 2). Additionally, a non-linear dose-response rela -
+tionship was examined using restricted cubic splines, 
+revealing significant evidence of a non-linear associa -
+tion (p  < 0.001; p  for non-linearity < 0.001).Sensitivity analysis for T2DM Sensitivity analyses were 
+conducted using a leave-one-out approach, excluding one 
+study at a time. The results remained consistent with the 
+primary analysis, with the estimated risk of T2DM rang -
+ing from 13.4% to 13.8% for every 10% increase in UPF 
+consumption. Notably, excluding the three US-based 
+cohort studies resulted in a higher estimated risk of 16% 
+per 10% increase in UPF consumption (RR: 1.16, 95% CI: 
+1.07–1.25, p < 0.001).
+Obesity
+The dose-response meta-analysis for obesity indicated 
+that each 10% increase in UPF consumption in kcal per 
+day was associated with a 5% increased risk of obesity 
+(RR: 1.05, 95% CI: 0.99–1.13, p = 0.1321,  I2 = 85.4%, p = 
+0.008) (Figs. 3 and 4).
+There was no evidence of a non-linear association (p = 
+0.3025; p for non-linearity = 0.354). Due to the limited 
+number of studies included in the analysis, a sensitivity 
+analysis was not performed.
+Critical appraisal with Newcastle‑Ottawa
+Most studies (4 out of 5) were rated as good quality, with 
+scores ranging from 0.7 to 0.8. In contrast, one study 
+was rated as fair quality, with a score of 5. A detailed 
+assessment can be found in the Supplementary Material, 
+Table 4.
+The ultra‑processed food consumption among adults 
+in Belgium
+A total of 1 155 adult participants were included in the 
+study. Of these, 52% were female, 57% resided in the 
+Flemish region, 35% in the Walloon region, and 8% in the 
+Brussels-Capital region (Table 3).
+The distribution of UPF consumption varied depend -
+ing on the unit of measurement. When expressed as a 
+percentage of total food weight (g/day %), the distribu -
+tion was asymmetric, with a higher concentration of 
+individuals consuming lower proportions of UPFs (see 
+Supplementary, Figure 2). In contrast, when measured as 
+a percentage of total energy intake (kcal/day %), the dis -
+tribution appeared more symmetric, suggesting a more 
+even spread across the population (see Supplementary, 
+Figure 3). This difference likely arises because ultra-pro -
+cessed foods tend to be more energy-dense than unpro -
+cessed foods [1], meaning that a small proportion of total 
+weight can contribute disproportionately to total energy 
+intake.
+Among sex and age categories, males aged 20 to 29 
+years in the Flemish and Walloon regions had the high -
+est consumption of UPFs compared to other age groups 
+and females. Similarly, females aged 30 to 34 years in the 
+Page 6 of 16 Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+Table 2 Characteristics of studies included in meta-analysis
+Author
+(year)Country Cohort study & 
+follow ‑upCharacteristics of 
+participantsUPF survey Diagnoses of DM Analysis method RR or HR (95% CI) Covariates adjusted
+Type 2 diabetes mellitus
+ Chen et al. (2023) 
+[29]United States NHS
+(32 years)71 871 women aged 
+30–55 yearsSelf-administered 
+130-items semi-
+quantitative FFQ, 
+every 2–4 yearsSelf-reports by par -
+ticipants identified 
+through follow-up 
+questionnaires 
+and confirmed 
+by a validated 
+supplementary 
+questionnaireCox proportional 
+hazards regressionQuintiles: Q1 (Refer -
+ence)
+Q2 HR: 1.06 (95%CI 
+0.98–1.15)
+Q3 HR: 1.17 (95%CI 
+1.08–1.26)
+Q4 HR: 1.27 (95%CI 
+1.18–1.37).
+Q5 HR: 1.36 (95%CI 
+1.26–1.46)
+For each 10%
+HR 1.13 (95% CI 
+1.11–1.15)Age, race, family 
+history of diabetes, 
+history of hypercho -
+lesterolemia at base -
+line, history of hyper -
+tension at baseline, 
+baseline BMI, smoking 
+status, physical activ-
+ity, oral contraceptive 
+use, postmenopau-
+sal hormone use, 
+physical examina-
+tion in the past 2 
+years, neighbor -
+hood income, total 
+alcohol consumption, 
+and total energy 
+intake
+ Chen et al. (2023) 
+[29]United States NHSII
+(26 years)87 918 women aged 
+25–44 yearsSelf-administered 
+130-items semi-
+quantitative FFQ, 
+every 2–4 yearsSelf-reports by par -
+ticipants identified 
+through follow-up 
+questionnaires 
+and confirmed 
+by a validated 
+supplementary 
+questionnaireCox proportional 
+hazards regressionQuintiles: Q1 (Refer -
+ence)
+Q2 HR: 1.23 (95% 
+1.12–1.34).
+Q3 HR: 1.33 (95%CI 
+1.22–1.45)
+Q4 HR:1.37 
+(95%CI1.26-1.50)
+Q5 HR:1.63 
+(95%CI1.50-1.76
+For each 10%
+HR 1.11 (95%CI 
+1.09–1.13)Age, race/ethnic-
+ity, family history 
+of diabetes, history 
+of hypercholester -
+olemia at baseline, his-
+tory of hypertension 
+at baseline, baseline 
+BMI, smoking status, 
+physical activity, post -
+menopausal hormone 
+use, oral contraceptive 
+use, physical exami-
+nation, neighbor -
+hood income, total 
+alcohol consumption, 
+and total energy
+Page 7 of 16
+ Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+ 
+Table 2 (continued)
+Author
+(year)Country Cohort study & 
+follow ‑upCharacteristics of 
+participantsUPF survey Diagnoses of DM Analysis method RR or HR (95% CI) Covariates adjusted
+ Chen et al. (2023) 
+[29]United States HPFS
+(30 years)38 847 men aged 
+40–75 yearsSelf-administered 
+130-items semi-
+quantitative FFQ, 
+every 2–4 yearsSelf-reports by par -
+ticipants identified 
+through follow-up 
+questionnaires 
+and confirmed 
+by a validated 
+supplementary 
+questionnaireCox proportional 
+hazards regressionQuintiles: Q1 (Refer -
+ence)
+Q2 HR:1.08 (95%CI 
+0.96–1.21). Q3 HR: 
+1.16 (95%CI 1.04–
+1.30). Q4 HR: 1.22 
+(95%CI 1.09–1.37). 
+Q5 HR:1.41 (95%CI 
+1.26–1.58)
+For each 10%
+HR 1.09 (95%CI 1.06, 
+1.13)Age, race/ethnic-
+ity, family history 
+of diabetes, history 
+of hypercholester -
+olemia at baseline, his-
+tory of hypertension 
+at baseline, baseline 
+BMI, smoking status, 
+physical activity, 
+physical examina-
+tion, neighbor -
+hood income, total 
+alcohol consumption, 
+and total energy
+ Levy et al. (2021) 
+[30]UK UK Biobank
+(5.4 years)21 730 participants 
+aged 40–79 years, 
+52.9% were womenWeb-based, 
+self-administered 
+questionnaire 
+in the previous 24 
+hours at baseline 
+and within 3 years 
+afterSelf-report 
+and nurse-interview 
+data.
+Derived an algo -
+rithm
+to identify people 
+with or without inci-
+dent type 2 diabetesCox proportional 
+hazards regressionQuartiles: Q1 (Refer -
+ence)
+Q2 HR: 0.98 (95%CI 
+0.68–1.39)
+Q3 HR: 1.10 (95% 
+CI 0.76–1.55) Q4 
+HR: 1.44 (95%CI 
+1.04–2.02)
+For each 10%
+HR 1.12 (95%CI 
+1.04–1.20)Age, family history 
+of diabetes, sex, 
+ethnicity, Index 
+of Multiple Depriva-
+tion, physical activity 
+level, current smoking 
+status,total energy 
+intake, BMI at baseline
+ Srour et al. (2020) 
+[31]France Nutrinet Santé
+(6.0 years)104 707 participants 
+aged more than 18 
+years, 79.2% were 
+women3 non-consecutive
+validated web-based 
+24-hour dietary 
+records at
+baseline and every 6 
+months,
+randomly assigned 
+over a 2-week period 
+(2 weekdays
+and 1 weekend day)Self-questionnaires 
+linked to medi-
+cal databases 
+of the SNIIRAMCox proportional 
+hazards regressionFor each 10%
+HR 1.15 (95%CI 
+1.06–1.25)Age, sex, educational 
+level, baseline BMI, 
+physical activity level, 
+smoking status, alco -
+hol intake, number 
+of 24-hour dietary 
+records, energy 
+intake without alco -
+hol, family history 
+of diabetes, overall 
+nutritional quality 
+of the diet, number 
+of 24-hour dietary 
+records, energy intake, 
+FSAm-NPS DI score, 
+and family history 
+of type 2 diabetes
+Page 8 of 16 Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+Table 2 (continued)
+Author
+(year)Country Cohort study & 
+follow ‑upCharacteristics of 
+participantsUPF survey Diagnoses of DM Analysis method RR or HR (95% CI) Covariates adjusted
+Obesity
+ Rauber et al.
+(2021) [32]England, 
+Scotland 
+and WalesUK Biobank
+(5.0 years)22 659 participants 
+aged 40–69 years 
+and 52.1% were 
+womenWeb-based 
+24-hour dietary 
+records at the end 
+of the recruitment
+between 
+the next two years (4 
+times).BMI at baseline 
+and follow-up.Cox proportional 
+hazards regressionQuartiles: Q1 (Refer -
+ence)
+Q2 HR: 1.21 (95%CI 
+1.00–1.47)
+Q3 HR: 1.17 (95%CI 
+0.97–1.42)
+Q4 HR: 1.62 (95%CI 
+1.35–1.94).
+For each 10%
+HR:1.11 (95%CI 
+1.07–1.15)Sex, Index of Multiple 
+Deprivation, physical 
+activity, smoking 
+status, sleep duration, 
+BMI at baseline
+ Canhada et al.
+(2017) [33]Brazil ELSA-Brasil
+(3.8 years)11 827 participants 
+aged 35–74 years, 
+and 55% were 
+womenFFQ at baseline. 
+(Evaluate diet 
+in the last 12 
+months).The annual weight 
+gain in BMI.
+At baseline 
+and after a mean 3.8 
+yearsPoisson regression Quartiles: Q1 (Refer -
+ence)
+Q2 RR: 1.12 (95%CI 
+0.92–1.35)
+Q3 RR 1.03 (95% CI 
+0.85–1.26)
+Q4 RR 1.11 (95%CI 
+0.91–1.36)
+For each 15%
+RR 1.13 (95%CI 
+1.01–1.26)Age, sex, race, centre, 
+income, school 
+achievement, smok -
+ing, and physical 
+activity
+Abbreviations: NHS Nurses’ Health Study, NHSII Nurses’ Health Study II, HPFS Health Professional Follow ‑Up Study, RR Relative risk, HR Hazard ratio, FFQ  Food Frequency Questionnaire, BMI Body Mass Index, FSAm-NPS DI 
+score Nutrient Profiling System of the British Food Standards Agency Dietary Index Score, ELSA-Brasil Brazilian Longitudinal Study of Adult Health Cohort
+Page 9 of 16
+ Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+ 
+Walloon region had the highest UPF consumption among 
+women. In contrast, the lowest UPFs was observed in 
+females aged 60–64 years.Population attributable fraction and attributable burden
+We extracted the RR from the dose-response meta-anal -
+ysis and extrapolated it to the Belgian study population. 
+The dose-response curves (Figs.  1 and 3) indicate that 
+Fig. 1 Curve dose-response meta-analysis of T2DM
+Fig. 2 Forest plots dose-response meta-analysis of T2DM
+Fig. 3 Curve dose-response meta-analysis of obesity
+Page 10 of 16 Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+zero UPF consumption is the only scenario with no asso -
+ciated risk, meaning that the TMREL is zero.
+In our analysis, the highest UPF consumption increased 
+the risk of developing T2DM by 3.5 times compared to 
+individuals with no UPF consumption (RR: 3.57, 95% CI: 
+3.08–4.14). For obesity, the highest UPF consumption 
+was associated with a 72% increased risk compared to 
+individuals with no UPF consumption (RR: 1.72, 95% CI: 
+1.16–2.55).
+Following the calculation of PAFs and AB by categories, 
+an aggregate analysis yielded results for the entire popu -
+lation. In T2DM, our findings show that UPFs consump -
+tion in Belgium was responsible for 23% of cases (53 348 
+/227 502) and 24% of DALYs (7 998/34 034) of T2DM 
+recorded in 2014. Also, the population rate of T2DM was 
+8 250 cases per 1 000 000 habitants and 1 236 DALYs per 
+1 000 000 habitants.
+The proportion of T2DM cases and corresponding 
+DALYs attributed to UPFs among regions was higher in 
+Flanders with 25% of cases (26 267/ 106 289) and 25% 
+DALYs (3 893/ 15 690), followed by 23% of cases (22 024/ 
+97 588) and 23% DALYs (3 381/ 14 891) in Wallonia, 
+and 21% of cases (5 057/23 626) and 21% DALYs (725/3 
+452) in the Brussels-Capital Region. Between sexes, 26% 
+of cases (31 690/124 130) and 25% of DALYs (5 039/19 
+813) are attributed to UPFs in males, and 21% of cases (21 658/103 372) and 21% of DALYs (2 959/14 221) are 
+attributed to UPFs in females. Regarding age categories, 
+the group aged 20 to 24 years showed the highest pro -
+portion of cases (918/2 866) and DALYs (97/303), with 
+32% attributed to UPFs consumption for both cases and 
+DALYs. As age increased in both sex groups, the propor -
+tion of T2DM attributed to UPFs consumption decreased 
+(Table 4).
+On the other hand, 21% of cases (277 056/1 286 454) 
+of obesity in Belgium in 2014 can be attributed to UPFs 
+consumption. Here, the population rate was 4 175 per 1 
+000 000 inhabitants. Among regions, the proportion of 
+cases attributed to UPFs intake was higher in Flanders 
+with 22% of cases (157 577/720 595) and in Wallonia with 
+21% of cases (105 831/493 949), followed by the Brus -
+sels-Capital Region with 19% of cases (13 648/71 910). 
+Between sexes, 22% of cases (141 289/647 161) are attrib -
+uted to UPF consumption in males and 21% of cases (135 
+767/639 293) in females. Regarding age categories, the 
+group aged between 20 to 24 years showed the highest 
+proportion of cases (14 400/56 822) with 25% attributed 
+to UPF consumption (Table 5).
+In the two theoretical scenarios (see Supplementary 
+Table 5 and Table 6), a hypothetical reduction of 100 
+grams across all population strata could reduce 18% 
+of cases and 20% of DALYs of T2DM from the total 
+Fig. 4 Forest plots dose-response meta-analysis of obesity
+Table 3 Characteristics of food consumption survey 2014
+Age is expressed as median (IQR) and %UPF consumption are expressed as meanBelgium Flanders Brussels‑ Capital Wallonia
+Characteristics N=1 155 660 (57%) 92 (8%) 403 (35%)
+Age (years) 43 (32–53) 44 (33–54) 38 (31–52) 43 (32–54)
+Male (n) 552 (48%) 317 (48%) 45 (49%) 190 (47%)
+Female (n) 603 (52%) 343 (52%) 47 (51%) 213 (53%)
+% UPF consumption (g/day) 24.02% 24.66% 19.54% 24.33%
+%UPF consumption (kcal/day) percentage 
+by
+Kcal/day45.83% 46.78% 40.90% 45.66%
+Page 11 of 16
+ Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+ 
+estimated burden (44 282 cases and 6 645 DALYs), 
+whereas a hypothetical reduction of 100 kcal across 
+all population strata could reduce 19% of cases of obe -
+sity from the total estimated burden (221 349 cases). 
+On the other hand, in the hypothetical scenario with 
+a 10% relative reduction in daily UPF intake, it could 
+avert 14% of cases and 14% of DALYs of T2DM from 
+the estimated burden (31 894 cases and 4 790 DALYs), 
+and 17% of cases of obesity from the estimated burden 
+(245 439 cases) (Figs. 5  and 6 ).
+By subgroup analysis, the policy would benefit 
+similar strata for each disease. For type 2 diabetes 
+and obesity, males aged 20 to 29 years and residents 
+of Flanders would benefit the most (Supplementary 
+Table 5 and Table 6).Discussion
+Our analysis provides a comprehensive estimation of 
+the burden of obesity and T2DM attributable to UPF 
+consumption in Belgium. We found that UPF intake 
+was associated with a 13% increased risk of T2DM for 
+every 10% increase in consumption. The burden esti -
+mates suggest 8 250 cases per million inhabitants, cor -
+responding to a proportional burden of 23%, and 1 236 
+DALYs per million inhabitants, representing 24% of the 
+total burden. For obesity, the meta-analysis indicated 
+a 5% increased risk per 10% increase in UPF consump -
+tion, though results were not statistically significant. The 
+estimated burden for obesity was 4 175 cases per million 
+inhabitants, accounting for 21% of total cases in Belgium 
+in 2014.Table 4 Population attributable fraction and attributable burden of T2DM with 95%CI in the TMREL scenario
+TMREL Theoretical minimum risk exposure level is equal to zero consumption of ultra‑processed food, PAF  Population Attributable Burden, AB Attributable Burden, 
+95%CI 95% Confidence IntervalPopulation Total value PAF (95%CI) AB (95%CI)
+ All sex, regions, age groups 227 502 cases
+34 034 DALYs23% (21%−26%)
+24% (21%−26%)53 348 (47 880-58 670)
+7 998 (7 179 – 8 796)
+Region Total value PAF (95%CI) AB (95%CI)
+ Flanders 106 289 cases
+15 690 DALYs25% (22%−27%)
+25% (22%−27%)26 267(23 583-28 871)
+3 893 (3 495-4 278)
+ Wallonia 97 588 cases
+14 891 DALYs23% (20%−25%)
+23% (20%−25%)22 024 (19 759 – 24 239)
+3 381 (3 033-3 720)
+ Brussels-capital 23 626 cases
+3 452 DALYs21% (19%−24%)
+21% (19%−23%)5 057 (4 538-5 560)
+725 (650–797)
+Sex Total value PAF (95%CI) AB (95%CI)
+ Male 124 130 cases
+19 813 DALYs26% (23%−28%)
+25% (23%−28%)31 690 (28 478-34 807)
+5 039 (4 528-5 535)
+ Female 103 372 cases
+14 221 DALYS21% (19%−23%)
+21% (19%−23%)21 658 (19 402-23 863)
+2 959 (2 650-3 261)
+Age group Total value PAF (95%CI) AB (95%CI)
+ 20–24 years 2 866 cases
+303 DALYs32% (29%−35%)
+32% (29%−35%)918 (828–1003)
+97 (88–106)
+ 25–29 years 4 188 cases
+516 DALYs32% (29%−35%)
+32% (29%−35%)1 351 (1 221-1 476)
+166 (150–181)
+ 30–34 years 6 998 cases
+971 DALYs30% (27%−33%)
+30% (27%−33%)2 104 (1 896-2 305)
+292 (264–320)
+ 35–39 years 8 350 cases
+1 173 DALYs28% (25%−30%)
+28% (25%−31%)2 318 (2 084-2 541)
+328 (295–359)
+ 40–44 years 14 061 cases
+2 079 DALYs24% (21%−26%)
+24% (22%−26%)3 343 (3 000–3 677)
+498 (447–548)
+ 45–49 years 23 234 cases
+3 692 DALYs26% (23%−28%)
+26% (23%−28%)5 958 (5 360-6 539)
+952 (857–1045)
+ 50–54 years 38 823 cases
+5 819 DALYs23% (21%−26%)
+24% (21%−26%)9 107(8 176-10 018)
+1 374 (1 234-1 512)
+ 55–59 years 56 759 cases
+8 747 DALYs24% (22%−26%)
+24% (22%−26%)13 627 (12 227-14 973)
+2 102(1 886-2 310)
+ 60–64 years 72 225 cases
+10 735 DALYs20% (18%−22%)
+20% (18%−22%)14 623(13 087-16 138)
+2 188 (1 958-2 414)
+Page 12 of 16 Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+Our dose-response meta-analysis for T2DM aligns 
+closely with a prior meta-analysis of seven cohort stud -
+ies, which reported a RR of 1.12 (95% CI: 1.10–1.13) 
+[29], and is somewhat comparable to another meta-
+analysis that included five studies (four cohort and one cross-sectional), reporting an RR of 1.15 (95% CI: 1.06–
+1.26) [34]. Three studies from these prior analyses were 
+excluded due to differences in study design (cross-sec -
+tional) [35], units of analysis (absolute amount) [22], or 
+analytical approach (logistic regression) [36]. Regarding Table 5 Population attributable fraction and attributable burden of obesity with 95%CI in the TMREL scenario
+TMREL Theoretical minimum risk exposure level is equal to zero consumption of ultra‑processed food, PAF  Population Attributable Burden, AB Attributable Burden, 
+95%CI 95% Confidence IntervalPopulation Total value PAF (95%CI) AB (95%CI)
+ All sex, regions, age 1 286 454 cases 21% (6%−34%) 277 056 (83 270–439 871)
+Region Total value PAF (95%CI) AB (95%CI)
+ Flanders 720 595 cases 22% (6%−34%) 157 577 (47 534-250 546)
+ Wallonia 493 949 cases 21% (6%−34%) 105 831 (31 718-167 721)
+ Brussels-capital 71 910 cases 19% (5%−30%) 13 648 (4 018–21 604)
+Sex Total value PAF (95%CI) AB (95%CI)
+ Male 647 161 cases 22% (7%−34%) 141 289 (43 004–223 464)
+ Female 639 293 cases 21% (6%−34%) 135 767 (40 266-216 407)
+Age group Total value PAF (95%CI) AB (95%CI)
+ 20–24 years 56 822 cases 25% (8%−39%) 14 400 (4 431-22 406)
+ 25–29 years 88 329 cases 25% (7%−39%) 22 176 (6 642-34 830)
+ 30–34 years 82 752 cases 23% (7%−36%) 19 540 (5 719-30 368)
+ 35–39 years 128 084 cases 23% (7%−37%) 30 425 (8 929-47 896)
+ 40–44 years 176 520 cases 20% (6%−32%) 34 885 (10 005–56 068)
+ 45–49 years 193 832 cases 22% (7%−34%) 41 991 (13 115-67 005)
+ 50–54 years 155 536 cases 21% (6%−33%) 32 208 (9 809-51 109)
+ 55–59 years 189 319 cases 21% (6%−33%) 39 412 (11 512-62 934)
+ 60–64 years 215 260 cases 20% (6%−31%) 42 019 (13 108-67 255)
+Fig. 5 Estimated number of cases and DALYs of T2DM under different UPF reduction scenarios in Belgium. This figure shows the total number 
+of obesity cases expected under three scenarios: (1) a 10% reduction in UPF consumption (2) a reduction of 100 kcal per day from UPFs, and (3) 
+TMREL (theoretical-minimum-risk exposure level). The differences between these scenarios highlight the potential number of cases and DALYs 
+that could be prevented with lower UPF intake
+Page 13 of 16
+ Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+ 
+confounding factors, all selected models were adjusted 
+for age, sex, family history of T2DM, physical activity, 
+baseline BMI, and total calorie intake. Additionally, three 
+out of five included studies had follow-up periods rang -
+ing from 26 to 32 years, but information on the time of 
+diagnosis was lacking.
+For obesity, the dose-response meta-analysis sug -
+gested a 5% increased risk, but results were not signifi -
+cant, and high heterogeneity was observed. This could be 
+due to limited data in our analysis. Moreover, individuals 
+with obesity may underreport calorie intake and exhibit 
+impaired metabolic efficiency [37]. Additionally, the 
+short follow-up periods (3.8 to 5 years) may have been 
+insufficient, as sustained small dietary changes affect 
+body weight over longer durations (e.g., 10 years) [37]. A 
+previous meta-analysis found that a 10% increase in UPF 
+consumption was associated with a 7% increased risk of 
+obesity (HR 1.07, 95% CI: 1.03–1.11), based on five cross-
+sectional and two cohort studies [38]. These last two 
+cohort studies were included in our meta-analysis show -
+ing slight similarity.
+This study also explored two theoretical policy impact 
+scenarios—absolute and relative reductions in UPF con -
+sumption. Both scenarios demonstrated substantial 
+decreases in burden estimates. However, no specific poli -
+cies targeting UPF intake currently exist.Our study is the first to estimate the burden of T2DM 
+attributable to UPF consumption, though prior research 
+has linked UPFs to cardiovascular diseases and obesity 
+[39, 40]. Globally, dietary risk factors contribute to 34.9% 
+of T2DM-related DALYs, with the Global Burden of 
+Disease (GBD) study identifying 11 dietary risk factors. 
+Among these, processed meat consumption significantly 
+contributes to T2DM burden [41]. In Belgium, processed 
+meat was associated with a 36.1% proportional burden 
+and a rate of 1 379 T2DM cases per million inhabitants 
+in 2018. Some processed meats, such as sausages, fall into 
+processed foods or UPFs [42]. Therefore, UPFs should be 
+considered a global dietary risk for T2DM.
+Regarding obesity, a study in Brazil attributed 28.6% 
+of the increase in obesity prevalence over seven years 
+to UPFs consumption [40]. Globally, 51.9% of T2DM-
+related DALYs are attributed to high BMI, the primary 
+risk factor among others, including dietary risks [43]. 
+Given that UPFs partially contribute to obesity, their 
+effect on T2DM should also consider mediation factors 
+for a more accurate risk estimation [10].
+Research has assessed the health risks of specific 
+UPF subtypes (e.g., ready-to-eat meals, sweets, des -
+serts, bread, cereals, yogurt) [3, 29]. Adding nutri -
+tional information on individual UPFs could enhance 
+the understanding of their health impacts. The NOVA 
+Fig. 6 Estimated number of obesity cases under different UPF reduction scenarios in Belgium. This figure shows the total number of obesity 
+cases expected under three scenarios: (1) a 10% reduction in UPF consumption (2) a reduction of 100 kcal per day from UPFs, and (3) TMREL 
+(theoretical-minimum-risk exposure level). The differences between these scenarios highlight the potential number of cases that could be 
+prevented with lower UPF intake
+Page 14 of 16 Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+classification should complement ingredient declarations 
+and nutritional quality scores, as recognizing the extent 
+and purpose of food processing provides better insight 
+into non-essential components.
+Existing food policies primarily target specific com -
+pounds, such as sugar taxation, front-of-package (FOP) 
+labeling, marketing bans, sodium and trans-fat limits, 
+and school food regulations [44]. Expanding these poli -
+cies to encompass UPFs would require an expert-led 
+operational definition of UPFs for regulatory purposes 
+[45]. Although current policies have improved consump -
+tion patterns, their long-term effects on chronic disease 
+development require further study, as long-term moni -
+toring is essential. The food industry often uses the “lack 
+of effect” argument to oppose such policies [44].
+Future studies should include participants with at least 
+10 years of UPF exposure before a T2DM diagnosis to 
+better assess causality, given that prediabetes—a revers -
+ible stage—has an average duration of 10 years [46, 47]. 
+Additionally, further research should assess social deter -
+minants (e.g., income, education, food access, security) of 
+UPF consumption, the economic and environmental bur -
+den of UPFs, and policy impacts.
+The limitations of our study are: First, our study is 
+based on 2014 Food Consumption Survey (FCS) data, 
+and UPF consumption may have increased since then 
+[48]. However, a comparison with the 2004 survey 
+showed no significant changes in UPF intake among indi -
+viduals aged 15–64 years [49]. Second, while FFQ and 
+24-hour recall are validated dietary assessment tools [50, 
+51], they have inherent limitations, including recall bias, 
+social desirability bias, and challenges in assessing long-
+term dietary intake. These factors should be considered 
+when interpreting dietary data in epidemiological stud -
+ies [52]. Third, greater access to primary cohort data on 
+obesity and its conversion into comparable units could 
+improve our meta-analysis estimates.
+The strengths of our study include a robust dose-
+response meta-analysis, demonstrating consistency with 
+previous research and supporting the extrapolation of 
+relative risk estimates to UPF consumption levels. We are 
+the first to estimate the contribution of UPF consump -
+tion to the burden of obesity and T2DM in Belgium, 
+offering stratified population data based on the Belgian 
+Food Consumption Survey. Our findings underscore the 
+need for UPF-related policies and provide a benchmark 
+for comparison with the upcoming 2024 Food Consump -
+tion Survey.
+Conclusion
+Our findings suggest that higher UPF consumption is 
+associated with an increased risk of obesity and T2DM. 
+In 2014, UPF intake was responsible for 23% of T2DM cases and 24% of related DALYs, as well as 21% of obe -
+sity cases.
+These burden estimates highlight the urgent need for 
+policy interventions to limit UPF consumption. Despite 
+ongoing debates on causality, the strong associations 
+observed in longitudinal studies support the implemen -
+tation of recommended public health policies to miti -
+gate the impact of UPFs on chronic diseases.
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s12889- 025- 22304-3.
+Supplementary Material 1.
+Acknowledgements
+Not applicable.
+Authors’ contributions
+LG has made a substantial contribution to the conception of the study. All 
+authors participated in the study design, data analysis, and interpretation. 
+They have drafted the manuscript, revised it, and approved the submitted 
+version.
+Funding
+The authors want to thank the Federal Public Service of Health, Food Chain 
+Safety and Environment to provide funding for the national food consump -
+tion surveys of 2004 and 2014/2015.
+Data availability
+The datasets generated and analyzed during the current study are not publicly 
+available because these data fall under the protection of privacy concerning 
+the processing of personal data. The datasets are available from the authors 
+upon reasonable request and according to certain conditions.
+Declarations
+Ethics approval and consent to participate
+The Belgian Food Consumption Survey 2014-2015 was conducted in accord-
+ance with the ethical principles in the Declaration of Helsinki. The study 
+protocol received approval from the Ethical Committee of the University of 
+Ghent. Written informed consent was obtained from all participants prior to 
+their involvement in the survey.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Author details
+1 Global Health Institute, Faculty of Medicine and Health Sciences, Univer -
+sity of Antwerp, Antwerp 2610, Belgium. 2 KU Leuven Access-to-Medicines 
+Research Centre, Vlamingenstraat 83, Leuven 3000, Belgium. 3 Sustainable 
+Systems Engineering (STEN), Department of Green Chemistry and Technology, 
+Ghent University, Coupure Links 653, Gent 9000, Belgium. 4 Socio-environmen-
+tal dynamic research group (SONYA), Université Libre de Bruxelles, Avenue 
+Antoine Depage 30, Brussels 1050, Belgium. 5 National Center for Epidemiol-
+ogy, Carlos III Health Institute, Avenida Monforte de lemos 5, Madrid 28029, 
+Spain. 6 Department of Epidemiology and Public Health, Scientific Institute 
+of Public Health (Sciensano), J.Wytsmanstraat 14, Brussels 1050, Belgium. 
+Received: 12 November 2024   Accepted: 12 March 2025
+
+Page 15 of 16
+ Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+ 
+References
+ 1. Monteiro CA, Cannon G, Moubarac JC, Levy RB, Louzada MLC, Jaime PC. 
+The UN Decade of Nutrition, the NOVA food classification and the trouble 
+with ultra-processing. Public Health Nutr. 2018;21(1):5–17.
+ 2. Monteiro CA. Nutrition and health. The issue is not food, nor nutrients, so 
+much as processing. Public Health Nutr. 2009;12(5):729–31.
+ 3. Cordova R, Viallon V, Fontvieille E, Peruchet-Noray L, Jansana A, Wagner 
+KH, et al. Consumption of ultra-processed foods and risk of multimorbid-
+ity of cancer and cardiometabolic diseases: a multinational cohort study. 
+Lancet Reg Health Eur. 2023;35:100771.
+ 4. Crino M, Barakat T, Trevena H, Neal B. Systematic review and comparison 
+of classification frameworks describing the degree of food processing. 
+Nutr Food Technol. 2017;3(1):138.
+ 5. Lane MM, Davis JA, Beattie S, Gómez-Donoso C, Loughman A, O’Neil A, 
+et al. Ultraprocessed food and chronic noncommunicable diseases: a 
+systematic review and meta-analysis of 43 observational studies. Obes 
+Rev. 2021;22(3):e13146.
+ 6. Elizabeth L, Machado P , Zinöcker M, Baker P , Lawrence M. Ultra-
+processed foods and health outcomes: a narrative review. Nutrients. 
+2020;12(7):1955.
+ 7. Almarshad MI, Algonaiman R, Alharbi HF, Almujaydil MS, Barakat H. Rela-
+tionship between ultra-processed food consumption and risk of diabetes 
+mellitus: a mini-review. Nutrients. 2022;14(12):2366.
+ 8. Mertens E, Colizzi C, Peñalvo JL. Ultra-processed food consumption in 
+adults across Europe. Eur J Nutr. 2022;61(3):1521–39.
+ 9. Dénos CVS, Boone L, Cooreman-Algoed M, De Bauw M, Achten WMJ, 
+et al. Contribution of ultra-processed food and animal-plant protein 
+intake ratio to the environmental impact of Belgian diets. Sustain Prod 
+Consum. 2024;51:584–98.
+ 10. Plass D, Hilderink H, Lehtomäki H, Øverland S, Eikemo TA, Lai T, et al. 
+Estimating risk factor attributable burden - challenges and potential solu-
+tions when using the comparative risk assessment methodology. Arch 
+Public Health. 2022;80(1):148.
+ 11. Ezzati M. Comparative risk assessment. In: International encyclopedia of 
+public health. 2008. p. 806–818.
+ 12. Hall KD, Ayuketah A, Brychta R, Cai H, Cassimatis T, Chen KY, et al. Ultra-
+processed diets cause excess calorie intake and weight gain: an inpatient 
+randomized controlled trial of ad libitum food intake. Cell Metab. 
+2020;32(4):690.
+ 13. Dixon JB. The effect of obesity on health outcomes. Mol Cell Endocrinol. 
+2010;316(2):104–8.
+ 14. Ma LL, Wang YY, Yang ZH, Huang D, Weng H, Zeng XT. Methodological 
+quality (risk of bias) assessment tools for primary and secondary medical 
+studies: what are they and which is better? Mil Med Res. 2020;7(1):7.
+ 15. Shim SR, Lee J. Dose-response meta-analysis: application and practice 
+using the R software. Epidemiol Health. 2019;41:e2019006.
+ 16. Crippa A, Discacciati A, Bottai M, Spiegelman D, Orsini N. One-stage 
+dose-response meta-analysis for aggregated data. Stat Methods Med Res. 
+2019;28(5):1579–96.
+ 17. Bel S, Van den Abeele S, Lebacq T, Ost C, Brocatus L, Stiévenart C, et al. 
+Protocol of the Belgian food consumption survey 2014: objectives, 
+design and methods. Arch Public Health. 2016;74:20.
+ 18. Park MK, Freisling H, Huseinovic E, Winkvist A, Huybrechts I, Crispim SP , 
+et al. Comparison of meal patterns across five European countries using 
+standardized 24-h recall (GloboDiet) data from the EFCOVAL project. Eur J 
+Nutr. 2018;57(3):1045–57.
+ 19. Sciensano. National Food Consumption Survey: study protocol. Brussels: 
+Sciensano. [Internet]. Available from: https:// www. scien sano. be/ en/ proje 
+cts/ natio nal- food-  consu mption- survey# study- proto col .
+ 20. De Pauw R, Gorasso V, Scohy A, Van den Borre L, Devleesschauwer B. 
+Belgian National Burden of Disease Study. Guidelines for the calculation 
+of Disability-Adjusted Life Years in Belgium. Brussels, Belgium: Sciensano; 
+2023. Deposit number: D/2023.14.440/67.
+ 21. Statistics Belgium. Demographic data of Belgium. [Internet]. Available 
+from: https:// bestat. statb el. fgov. be/ bestat/ cross table. xhtml? datas ource= 
+65ee4 13b- 3859- 4c6f- a847- 09b63 1766f a7.
+ 22. Llavero-Valero M, Escalada-San Martín J, Martínez-González MA, Basterra-
+Gortari FJ, de la Fuente-Arrillaga C, Bes-Rastrollo M. Ultra-processed foods 
+and type-2 diabetes risk in the SUN project: a prospective cohort study. 
+Clinical Nutrition. 2021;40(5):2817–24. 23. Canhada SL, Vigo Á, Levy R, Luft VC, da Fonseca MJM, Giatti L, et al. 
+Association between ultra-processed food consumption and the inci-
+dence of type 2 diabetes: the ELSA-Brasil cohort. Diabetol Metab Syndr. 
+2023;15(1):233.
+ 24. Cordova R, Kliemann N, Huybrechts I, Rauber F, Vamos EP , Levy RB, 
+et al. Consumption of ultra-processed foods associated with weight 
+gain and obesity in adults: a multi-national cohort study. Clin Nutr. 
+2021;40(9):5079–88.
+ 25. Beslay M, Srour B, Méjean C, Allès B, Fiolet T, Debras C, et al. Ultra-pro -
+cessed food intake in association with BMI change and risk of overweight 
+and obesity: a prospective analysis of the French NutriNet-Santé cohort. 
+PLoS Med. 2020;17(8):e1003256.
+ 26. Mendonça RD, Pimenta AM, Gea A, de la Fuente-Arrillaga C, Martinez-
+Gonzalez MA, Lopes AC, et al. Ultraprocessed food consumption and risk 
+of overweight and obesity: the University of Navarra Follow-Up (SUN) 
+cohort study. Am J Clin Nutr. 2016;104(5):1433–40.
+ 27. Sen A, Brazeau AS, Deschênes S, Ramiro Melgar-Quiñonez H, Schmitz N. 
+The role of ultra-processed food consumption and depression on type 2 
+diabetes incidence: a prospective community study in Quebec, Canada. 
+Public Health Nutr. 2023;26(11):2294–303.
+ 28. Liu K, Zhou D, Chen L, Hao S. Depression and type 2 diabetes risk: 
+a Mendelian randomization study. Front Endocrinol (Lausanne). 
+2024;15:1436411.
+ 29. Chen Z, Khandpur N, Desjardins C, Wang L, Monteiro CA, Rossato SL, et al. 
+Ultra-processed food consumption and risk of type 2 diabetes: three 
+large prospective U.S. cohort studies. Diabetes Care. 2023;46(7):1335–44.
+ 30. Levy RB, Rauber F, Chang K, Louzada M, Monteiro CA, Millett C, et al. 
+Ultra-processed food consumption and type 2 diabetes incidence: A 
+prospective cohort study. Clin Nutr. 2021;40(5):3608–14.
+ 31. Srour B, Fezeu LK, Kesse-Guyot E, Alles B, Debras C, Druesne-Pecollo 
+N, et al. Ultraprocessed food consumption and risk of type 2 diabetes 
+among participants of the NutriNet-Santé prospective cohort. JAMA 
+Intern Med. 2020;180(2):283–91.
+ 32. Rauber F, Chang K, Vamos EP , Louzada MLD, Monteiro CA, Millett C, et al. 
+Ultra-processed food consumption and risk of obesity: a prospective 
+cohort study of UK Biobank. Eur J Nutr. 2021;60(4):2169–80.
+ 33. Canhada SL, Luft VC, Giatti L, Duncan BB, Chor D, da Fonseca MDM, 
+et al. Ultra-processed foods, incident overweight and obesity, and 
+longitudinal changes in weight and waist circumference: the Brazilian 
+Longitudinal Study of Adult Health (ELSA-Brasil). Public Health Nutr. 
+2020;23(6):1076–86.
+ 34. Moradi S, HojjatiKermani MA, Bagheri R, Mohammadi H, Jayedi A, 
+Lane MM, et al. Ultra-Processed food consumption and adult diabetes 
+risk: a systematic review and dose-response meta-analysis. Nutrients. 
+2021;13(12):4410.
+ 35. Nardocci M, Polsky JY, Moubarac JC. Consumption of ultra-processed 
+foods is associated with obesity, diabetes and hypertension in Canadian 
+adults. Can J Public Health. 2021;112(3):421–9.
+ 36. Duan MJ, Vinke PC, Navis G, Corpeleijn E, Dekker LH. Ultra-processed food 
+and incident type 2 diabetes: studying the underlying consumption pat -
+terns to unravel the health effects of this heterogeneous food category in 
+the prospective lifelines cohort. BMC Med. 2022;20(1):7.
+ 37. Willett W, Stampfer MJ. Total energy intake: implications for epidemio -
+logic analyses. Am J Epidemiol. 1986;124(1):17–27.
+ 38. Moradi S, Entezari MH, Mohammadi H, Jayedi A, Lazaridi AV, Kermani 
+MAH, et al. Ultra-processed food consumption and adult obesity risk: a 
+systematic review and dose-response meta-analysis. Crit Rev Food Sci 
+Nutr. 2023;63(2):249–60.
+ 39. Nilson EAF, Ferrari G, Louzada M, Levy RB, Monteiro CA, Rezende LFM. 
+The estimated burden of ultra-processed foods on cardiovascular disease 
+outcomes in Brazil: a modeling study. Front Nutr. 2022;9:1043620.
+ 40. Louzada ML, Steele EM, Rezende LFM, Levy RB, Monteiro CA. Changes in 
+obesity prevalence attributable to ultra-processed food consumption in 
+Brazil between 2002 and 2009. Int J Public Health. 2022;67:1604103.
+ 41. O’Hearn M, Lara-Castor L, Cudhea F, Miller V, Reedy J, Shi P , et al. Incident 
+type 2 diabetes attributable to suboptimal diet in 184 countries. Nat Med. 
+2023;29(4):982–95.
+ 42. World Health Organization. Red and processed meat in the context of 
+health and the environment: many shades of red and green: information 
+brief. Geneva: World Health Organization; 2023.
+Page 16 of 16 Gutierrez‑Ortiz et al. BMC Public Health         (2025) 25:1097 
+ 43. Safiri S, Karamzad N, Kaufman JS, Bell AW, Nejadghaderi SA, Sullman MJM, 
+et al. Prevalence, Deaths and Disability-Adjusted-Life-Years (DALYs) due to 
+type 2 diabetes and its attributable risk factors in 204 countries and ter -
+ritories, 1990–2019: results from the global burden of disease study 2019. 
+Front Endocrinol (Lausanne). 2022;13:838027.
+ 44. Popkin BM, Barquera S, Corvalan C, Hofman KJ, Monteiro C, Ng SW, et al. 
+Towards unified and impactful policies to reduce ultra-processed food 
+consumption and promote healthier eating. Lancet Diabetes Endocrinol. 
+2021;9(7):462–70.
+ 45. Touvier M, da Costa Louzada ML, Mozaffarian D, Baker P , Juul F, Srour B. 
+Ultra-processed foods and cardiometabolic health: public health policies 
+to reduce consumption cannot wait. BMJ. 2023;383:e075294.
+ 46. Bertram MY, Vos T. Quantifying the duration of pre-diabetes. Aust N Z J 
+Public Health. 2010;34(3):311–4.
+ 47. Lamparter J, Raum P , Pfeiffer N, Peto T, Höhn R, Elflein H, et al. Prevalence 
+and associations of diabetic retinopathy in a large cohort of predia-
+betic subjects: the Gutenberg health study. J Diabetes Complications. 
+2014;28(4):482–7.
+ 48. Moodie R, Stuckler D, Monteiro C, Sheron N, Neal B, Thamarangsi T, 
+et al. Profits and pandemics: prevention of harmful effects of tobacco, 
+alcohol, and ultra-processed food and drink industries. Lancet. 
+2013;381(9867):670–9.
+ 49. Vandevijvere S, De Ridder K, Fiolet T, Bel S, Tafforeau J. Consumption of 
+ultra-processed food products and diet quality among children, adoles-
+cents and adults in Belgium. Eur J Nutr. 2019;58(8):3267–78.
+ 50. Sierra-Ruelas É, Bernal-Orozco MF, Macedo-Ojeda G, Márquez-Sandoval 
+YF, Altamirano-Martínez MB, Vizmanos B. Validation of semiquantitative 
+FFQ administered to adults: a systematic review. Public Health Nutr. 
+2021;24(11):3399–418.
+ 51. Timon CM, van den Barg R, Blain RJ, Kehoe L, Evans K, Walton J, et al. A 
+review of the design and validation of web- and computer-based 24-h 
+dietary recall tools. Nutr Res Rev. 2016;29(2):268–80.
+ 52. Dao MC, Subar AF, Warthon-Medina M, Cade JE, Burrows T, Golley RK, 
+et al. Dietary assessment toolkits: an overview. Public Health Nutr. 
+2019;22(3):404–18.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.
